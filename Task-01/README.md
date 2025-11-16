@@ -97,64 +97,35 @@ AIDD is poised to render software development **more agile, intelligent, and eff
 
 
 
-1.  What is the primary objective of the AI-Native Era?  
+1. What is the main purpose of the AI-Native Era?
+ a) Replace developers
+ b) Empower developers through AI tools ✅
+ c) Eliminate coding
+ d) Automate testing
 
-    a) To fully replace human developers.  
+2. What defines an AI-driven developer?
+ a) Writes only syntax
+ b) Creates context-aware prompts ✅
+ c) Avoids tools
+ d) Works offline
 
-    b) To augment and empower developers through advanced AI tools. ✅  
+3. What does AIDD stand for?
+ a) AI-Integrated Data Design
+ b) AI-Driven Development ✅
+ c) Automated IDE Deployment
+ d) Adaptive Input Debugger
 
-    c) To eliminate the need for coding altogether.  
+4. What is the focus of Evaluation-Driven Development (EvDD)?
+ a) Manual coding
+ b) Evaluating and improving AI outputs ✅
+ c) UI design
+ d) Testing only
 
-    d) To exclusively automate software testing processes.  
-
-
-
-2.  Which characteristic best defines an AI-driven developer?  
-
-    a) Solely focused on writing code syntax.  
-
-    b) Proficient in crafting context-aware and effective prompts for AI. ✅  
-
-    c) Avoids the use of development tools.  
-
-    d) Operates exclusively in offline environments.  
-
-
-
-3.  What does the acronym AIDD represent?  
-
-    a) AI-Integrated Data Design.  
-
-    b) AI-Driven Development. ✅  
-
-    c) Automated IDE Deployment.  
-
-    d) Adaptive Input Debugger.  
-
-
-
-4.  What is the central focus of Evaluation-Driven Development (EvDD)?  
-
-    a) Exclusive reliance on manual coding practices.  
-
-    b) The critical evaluation and iterative improvement of AI-generated outputs. ✅  
-
-    c) Primary concentration on User Interface (UI) design.  
-
-    d) Limiting development efforts solely to testing.  
-
-
-
-5.  In the contemporary AI era, what skills should developers prioritize?  
-
-    a) Exclusive mastery of programming syntax.  
-
-    b) Cultivating strong reasoning and evaluation capabilities. ✅  
-
-    c) Actively avoiding the integration of AI tools.  
-
-    d) Adhering strictly to manual development workflows.  
-
+5. What should developers focus on in the AI era?
+ a) Syntax only
+ b) Building reasoning + evaluation skills ✅
+ c) Avoiding AI tools
+ d) Manual workflows
 
 
 ---
