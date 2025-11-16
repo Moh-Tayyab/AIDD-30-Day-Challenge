@@ -9,14 +9,10 @@ The goal of this challenge is to understand how developers collaborate with AI a
 
 📚 Learning Resources
 AI Native Software Development (Preface)
-```
 https://ai-native.panaversity.org/docs/preface-agent-native
-```
 
-AI Driven & AI Native Development (Slides)
-```
-https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwjNh8vRjQ/edit?slide=id.g398c4d5deda_2_2
-```
+
+AI Driven & AI Native Development (Slides)https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwjNh8vRjQ/edit?slide=id.g398c4d5deda_2_2
 
 PDF Version (Local File in Repo)
 A PDF copy of the material is included inside the repository.
