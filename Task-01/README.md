@@ -95,37 +95,37 @@ AIDD is poised to render software development **more agile, intelligent, and eff
 
 ## 6) Self-Assessment (Multiple Choice Questions)
 
-
-
-1. What is the main purpose of the AI-Native Era?
- a) Replace developers
- b) Empower developers through AI tools ✅
- c) Eliminate coding
+1. What is the main purpose of the AI-Native Era?  
+ a) Replace developers  
+ b) Empower developers through AI tools ✅  
+ c) Eliminate coding  	
  d) Automate testing
 
-2. What defines an AI-driven developer?
- a) Writes only syntax
- b) Creates context-aware prompts ✅
- c) Avoids tools
+2. What best defines an AI-driven developer?  
+ a) Writes only syntax  
+ b) Creates context-aware prompts ✅  
+ c) Avoids tools  
  d) Works offline
 
-3. What does AIDD stand for?
- a) AI-Integrated Data Design
- b) AI-Driven Development ✅
- c) Automated IDE Deployment
+3. What does AIDD stand for?  
+ a) AI-Integrated Data Design  
+ b) AI-Driven Development ✅  
+ c) Automated IDE Deployment  
  d) Adaptive Input Debugger
 
-4. What is the focus of Evaluation-Driven Development (EvDD)?
- a) Manual coding
- b) Evaluating and improving AI outputs ✅
- c) UI design
+4. What is the focus of Evaluation-Driven Development (EvDD)?  
+ a) Manual coding  
+ b) Evaluating and improving AI outputs ✅  
+ c) UI design  
  d) Testing only
 
-5. What should developers focus on in the AI era?
- a) Syntax only
- b) Building reasoning + evaluation skills ✅
- c) Avoiding AI tools
+5. Where should developers focus their effort in the AI era?  
+ a) Syntax only  
+ b) Building reasoning and evaluation skills ✅  
+ c) Avoiding AI tools  
  d) Manual workflows
+
+Answer Key: 1:b, 2:b, 3:b, 4:b, 5:b
 
 
 ---
