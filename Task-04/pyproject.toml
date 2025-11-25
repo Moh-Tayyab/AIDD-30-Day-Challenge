@@ -6,4 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "openai-agents>=0.6.1",
+    "pypdf",
+    "pdf2image",
+    "pytesseract",
 ]
