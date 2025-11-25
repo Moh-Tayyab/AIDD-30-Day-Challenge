@@ -9,4 +9,8 @@ dependencies = [
     "pypdf",
     "pdf2image",
     "pytesseract",
+    "streamlit",
 ]
+
+[tool.setuptools]
+py-modules = ["agent", "app"]
